@@ -1,0 +1,28 @@
+name: benjamin maddox
+favicon: null
+layout_spectrum: 0.09230772429145873
+typography_spectrum: 0.20568928285501897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5886345831677318
+  lightness: 0.9301172525156289
+  saturation: 0.13081339071504772
+  rhythmicContrast: 0.549962606979534
+purpose: []
